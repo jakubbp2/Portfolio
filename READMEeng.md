@@ -118,17 +118,25 @@ The dashboard contains four pages:
 
 High-level banking performance, transaction trends, customer activity and KPIs.
 
+<img width="1315" height="739" alt="image" src="https://github.com/user-attachments/assets/40e7842e-35b8-4dee-8dfd-1b9e209d7583" />
+
 ### 2. Customers & Transactions
 
 Customer distribution, transaction behavior, transaction types and top active customers.
+
+<img width="1316" height="737" alt="image" src="https://github.com/user-attachments/assets/f0e176aa-57e8-4b59-9812-9cdc8ca11d93" />
 
 ### 3. Loans & Credit Cards
 
 Loan performance, interest rates and credit card utilization.
 
+<img width="1313" height="734" alt="image" src="https://github.com/user-attachments/assets/1d19167d-dec1-4577-a06b-b7241df9e17f" />
+
 ### 4. Risk & Anomalies
 
 Transaction anomalies, anomaly trends, values and high-risk accounts.
+
+<img width="1313" height="734" alt="image" src="https://github.com/user-attachments/assets/a24e884a-7b4a-46cb-b496-3d4beb819ebe" />
 
 ---
 
