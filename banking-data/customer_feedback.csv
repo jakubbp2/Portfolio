@@ -1,0 +1,161 @@
+feedback_id,customer_id,feedback_date,feedback_type,resolution_status,resolution_date
+1,179,2026-03-06,Suggestion,Pending,
+2,137,2025-05-12,Technical Issue,Pending,
+3,21,2025-03-13,Suggestion,Pending,
+4,52,2025-02-14,Complaint,Pending,
+5,138,2026-05-29,Praise,Resolved,2026-06-10
+6,54,2026-02-11,Suggestion,Resolved,2026-02-20
+7,95,2025-02-21,Technical Issue,In Progress,
+8,61,2025-01-26,Complaint,Resolved,2025-01-29
+9,29,2025-04-20,Praise,Pending,
+10,75,2026-07-29,Technical Issue,In Progress,
+11,108,2026-08-25,Suggestion,Pending,
+12,143,2026-03-12,Praise,In Progress,
+13,27,2026-08-12,Technical Issue,Resolved,2026-08-25
+14,180,2025-01-14,Praise,Resolved,2025-01-22
+15,163,2025-01-25,Complaint,Resolved,2025-02-01
+16,121,2026-02-18,Suggestion,In Progress,
+17,55,2025-10-13,Complaint,Pending,
+18,4,2026-01-17,Complaint,Pending,
+19,179,2025-01-01,Suggestion,In Progress,
+20,25,2025-06-02,Complaint,In Progress,
+21,170,2026-07-31,Complaint,In Progress,
+22,46,2026-06-14,Praise,Pending,
+23,13,2025-11-13,Technical Issue,In Progress,
+24,65,2025-06-23,Suggestion,Pending,
+25,48,2025-01-19,Complaint,Pending,
+26,44,2026-04-14,Technical Issue,Resolved,2026-04-19
+27,183,2025-08-14,Suggestion,In Progress,
+28,92,2025-01-23,Technical Issue,Pending,
+29,183,2026-05-03,Suggestion,In Progress,
+30,97,2026-04-01,Complaint,Pending,
+31,87,2026-06-25,Technical Issue,In Progress,
+32,172,2026-06-08,Complaint,Resolved,2026-06-19
+33,12,2025-06-27,Complaint,Pending,
+34,165,2026-07-26,Complaint,In Progress,
+35,69,2026-08-10,Suggestion,Resolved,2026-08-23
+36,101,2025-09-08,Suggestion,Resolved,2025-09-15
+37,185,2026-01-24,Technical Issue,In Progress,
+38,64,2025-06-10,Praise,Resolved,2025-06-12
+39,54,2025-03-03,Complaint,Pending,
+40,64,2025-12-24,Suggestion,Pending,
+41,192,2026-05-14,Complaint,In Progress,
+42,177,2026-03-28,Complaint,In Progress,
+43,193,2025-03-16,Complaint,In Progress,
+44,130,2025-03-11,Technical Issue,Pending,
+45,141,2025-06-29,Suggestion,In Progress,
+46,108,2026-04-03,Complaint,Resolved,2026-04-15
+47,105,2025-08-20,Complaint,In Progress,
+48,25,2025-07-20,Complaint,Resolved,2025-07-29
+49,107,2026-08-14,Suggestion,In Progress,
+50,154,2025-10-18,Suggestion,Resolved,2025-10-25
+51,18,2026-03-06,Suggestion,Pending,
+52,115,2025-10-07,Praise,Pending,
+53,85,2025-12-13,Complaint,Pending,
+54,79,2026-04-05,Complaint,In Progress,
+55,141,2025-08-20,Complaint,Pending,
+56,75,2026-06-13,Praise,Pending,
+57,198,2026-07-23,Technical Issue,Pending,
+58,107,2025-01-31,Praise,Resolved,2025-02-11
+59,11,2026-08-03,Suggestion,Pending,
+60,31,2026-03-24,Suggestion,Pending,
+61,143,2026-08-14,Complaint,Pending,
+62,198,2026-01-12,Praise,In Progress,
+63,62,2026-06-22,Technical Issue,Resolved,2026-07-02
+64,161,2025-08-12,Praise,Resolved,2025-08-13
+65,14,2025-08-14,Technical Issue,Pending,
+66,43,2025-04-10,Technical Issue,Pending,
+67,63,2025-02-11,Suggestion,Resolved,2025-02-22
+68,106,2025-12-07,Suggestion,Resolved,2025-12-14
+69,66,2025-06-23,Suggestion,In Progress,
+70,148,2025-10-19,Praise,Pending,
+71,193,2025-05-24,Complaint,Resolved,2025-05-29
+72,191,2025-11-15,Complaint,In Progress,
+73,156,2026-03-12,Complaint,In Progress,
+74,75,2025-08-30,Complaint,Resolved,2025-09-08
+75,20,2025-10-28,Praise,Pending,
+76,20,2025-04-07,Complaint,Pending,
+77,126,2026-07-10,Suggestion,Pending,
+78,129,2026-08-18,Praise,Resolved,2026-08-29
+79,124,2025-01-09,Technical Issue,Resolved,2025-01-23
+80,182,2025-07-29,Complaint,Resolved,2025-07-30
+81,82,2026-01-16,Technical Issue,Pending,
+82,6,2026-06-15,Suggestion,In Progress,
+83,174,2025-04-01,Complaint,Resolved,2025-04-02
+84,60,2026-08-25,Praise,Resolved,2026-09-01
+85,12,2025-12-10,Suggestion,Resolved,2025-12-22
+86,22,2026-02-07,Suggestion,Resolved,2026-02-21
+87,189,2026-02-20,Suggestion,Pending,
+88,77,2025-01-01,Suggestion,Resolved,2025-01-14
+89,193,2025-02-01,Praise,Pending,
+90,66,2026-04-01,Suggestion,In Progress,
+91,114,2025-12-08,Praise,Resolved,2025-12-14
+92,120,2026-07-30,Technical Issue,In Progress,
+93,78,2025-08-23,Technical Issue,Pending,
+94,146,2025-02-05,Praise,Pending,
+95,171,2025-12-10,Technical Issue,Pending,
+96,43,2025-03-29,Praise,Resolved,2025-04-07
+97,154,2025-11-28,Praise,Resolved,2025-11-29
+98,88,2026-01-24,Complaint,In Progress,
+99,94,2026-03-03,Suggestion,In Progress,
+100,76,2026-05-18,Technical Issue,In Progress,
+101,13,2025-11-19,Technical Issue,Resolved,2025-11-28
+102,127,2025-02-16,Suggestion,Resolved,2025-02-27
+103,92,2026-06-12,Suggestion,In Progress,
+104,15,2026-01-05,Complaint,In Progress,
+105,109,2026-02-27,Complaint,Resolved,2026-03-05
+106,194,2025-03-06,Suggestion,Pending,
+107,56,2025-01-23,Complaint,Pending,
+108,30,2025-06-25,Suggestion,Pending,
+109,188,2025-10-16,Technical Issue,In Progress,
+110,116,2026-03-29,Complaint,In Progress,
+111,50,2026-08-09,Suggestion,Resolved,2026-08-19
+112,28,2026-07-27,Technical Issue,Resolved,2026-07-29
+113,179,2026-05-16,Technical Issue,Pending,
+114,197,2025-04-15,Suggestion,Resolved,2025-04-16
+115,77,2025-12-23,Technical Issue,In Progress,
+116,23,2025-06-26,Complaint,In Progress,
+117,11,2026-06-19,Technical Issue,Resolved,2026-06-28
+118,8,2025-12-19,Suggestion,In Progress,
+119,2,2025-08-21,Praise,Resolved,2025-08-25
+120,21,2026-03-17,Technical Issue,In Progress,
+121,130,2026-05-13,Complaint,In Progress,
+122,25,2026-06-17,Praise,Resolved,2026-06-22
+123,119,2026-04-14,Complaint,Pending,
+124,50,2025-05-10,Technical Issue,Pending,
+125,170,2026-05-04,Complaint,Pending,
+126,199,2025-09-12,Complaint,In Progress,
+127,143,2026-07-16,Technical Issue,In Progress,
+128,133,2026-07-15,Complaint,Resolved,2026-07-25
+129,91,2025-01-02,Suggestion,In Progress,
+130,169,2026-01-04,Complaint,Resolved,2026-01-17
+131,165,2025-07-05,Technical Issue,In Progress,
+132,162,2025-01-18,Technical Issue,In Progress,
+133,84,2025-10-16,Technical Issue,In Progress,
+134,48,2026-02-26,Suggestion,Resolved,2026-03-12
+135,164,2025-01-31,Suggestion,Pending,
+136,28,2025-10-13,Suggestion,Resolved,2025-10-15
+137,148,2025-03-07,Suggestion,Pending,
+138,167,2025-07-17,Complaint,Pending,
+139,104,2025-09-04,Technical Issue,Pending,
+140,196,2026-06-03,Complaint,Pending,
+141,145,2025-08-20,Complaint,Pending,
+142,181,2025-05-31,Praise,Pending,
+143,176,2026-07-15,Complaint,Pending,
+144,49,2025-07-17,Praise,Resolved,2025-07-20
+145,53,2025-07-30,Suggestion,Pending,
+146,118,2025-12-23,Technical Issue,In Progress,
+147,2,2025-09-06,Suggestion,In Progress,
+148,28,2025-05-13,Suggestion,In Progress,
+149,182,2026-07-25,Suggestion,In Progress,
+150,96,2025-07-04,Technical Issue,Pending,
+151,96,2025-05-24,Praise,In Progress,
+152,74,2025-07-09,Suggestion,Resolved,2025-07-18
+153,50,2026-06-28,Praise,In Progress,
+154,179,2025-03-17,Complaint,Resolved,2025-03-21
+155,69,2025-03-31,Complaint,Resolved,2025-04-13
+156,44,2026-07-05,Suggestion,Resolved,2026-07-10
+157,145,2025-05-08,Suggestion,In Progress,
+158,26,2025-07-13,Technical Issue,In Progress,
+159,85,2026-06-03,Technical Issue,Resolved,2026-06-17
+160,148,2026-01-02,Praise,Pending,
